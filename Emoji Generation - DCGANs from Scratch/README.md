@@ -14,3 +14,7 @@ You will learn how to:
 - Stabilize DCGANs using LeakyReLUs, Label Smoothing, Normalization, Gaussian Weight Initilization and a few other tricks.
 
 I hope that this will help you in developing a deeper understanding of implementing and using DCGANs for image generation.
+
+## Additional Resources:
+- [Keras - DCGAN to generate face Images](https://keras.io/examples/generative/dcgan_overriding_train_step/)
+- [Tensorflow DCGAN Tutorial](https://www.tensorflow.org/tutorials/generative/dcgan)

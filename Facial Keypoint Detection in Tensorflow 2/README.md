@@ -14,3 +14,6 @@ You will learn how to:
 - Perform inference on other faces and visualize the results.
 
 I hope that this will help you in developing a deeper understanding of using CNNs for keypoint detection in TF2.
+
+## Additional Resources:
+- [Keras Keypoint Detection Tutorial](https://keras.io/examples/vision/keypoint_detection/)

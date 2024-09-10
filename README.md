@@ -1,6 +1,6 @@
 # Overview
 
-This repository contains a collection of machine and deep learning projects I have worked on either as a student, researcher or just for passion.
+This repository contains a collection of machine learning and deep learning projects that I have completed either as a student, a researcher or just for passion.
 
 Please click on any project folder that interests you to navigate to that project's repository.
 
