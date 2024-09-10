@@ -9,11 +9,11 @@ You will learn how to:
 - Implement a custom loop to train the DCGAN for emoji generation.
 - Stabilize DCGANs using LeakyReLUs, Label Smoothing, Normalization, Gaussian Weight Initilization and a few other tricks.
 
+I hope that this will help you in developing a deeper understanding of implementing and using DCGANs for image generation.
+
 ## Instructions:
 - Please unzip and extract emojis into a separate folder.
 - Please follow the steps in the jupyter notebook closely.
-
-I hope that this will help you in developing a deeper understanding of implementing and using DCGANs for image generation.
 
 ## Additional Resources:
 - [Keras - DCGAN to generate face Images](https://keras.io/examples/generative/dcgan_overriding_train_step/)
